@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+        <string name="no_station_selected">No station selected</string>
+        <string name="select_a_subway_station">Select a subway station:</string>
+        <string name="select">Select</string>
+
+</resources>
